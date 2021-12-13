@@ -55,7 +55,7 @@
     <repository>
       <id>github</id>
       <name>GitHub revolt Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/yahve/kafka-connect-mongodb-objectId-transforms</url>
+      <url>https://maven.pkg.github.com/yahve/kafka-smt-objectid-key-string</url>
     </repository>
   </distributionManagement>
 
